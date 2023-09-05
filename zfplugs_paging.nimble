@@ -1,5 +1,5 @@
 # Package
-version     = "0.5.6"
+version     = "0.5.7"
 author      = "Amru Rosyada"
 description = "This is the plugins for the zfcore framework https://github.com/zendbit/nim.zfcore, contains paging generator helper"
 license     = "BSD"
