@@ -5,5 +5,5 @@ description = "This is the plugins for the zfcore framework https://github.com/z
 license     = "BSD"
 
 # Deps
-requires "nim >= 2.0,0"
+requires "nim >= 2.0.0"
 requires "uri3 >= 0.1.8"
